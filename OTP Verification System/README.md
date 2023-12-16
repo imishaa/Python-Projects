@@ -1,7 +1,7 @@
-## OTP Verification System <img src="https://cdn-icons-png.flaticon.com/512/4979/4979649.png" width="40px" height="50px" alt="python"></a>
+# OTP Verification System <img src="https://cdn-icons-png.flaticon.com/512/4979/4979649.png" width="40px" height="50px" alt="python"></a>
 The OTP (One-Time Password) Verification System is a crucial component in ensuring secure and robust user authentication processes. This Python script serves as a basic example of OTP generation and verification using a simple email-based delivery mechanism. While this script provides a foundational understanding, it is important to note that for production-level systems, it is recommended to use dedicated libraries and services for enhanced security and reliability.
 
-### Features of the Python OTP Verification Script:
+## Features of the Python OTP Verification Script:
 - **Random OTP Generation:** The script generates a random 6-digit OTP to enhance security.
 
 - **Email Delivery:** Utilizes the Simple Mail Transfer Protocol (SMTP) to send the OTP to the user's provided email address.
@@ -10,14 +10,14 @@ The OTP (One-Time Password) Verification System is a crucial component in ensuri
 
 - **Maximum Attempts Limit:** Implements a maximum attempt limit to enhance security and prevent unauthorized access.
 
-### Usage:
+## Usage:
 - **Generate OTP:** The script generates a random OTP and sends it to the specified email address.
 
 - **User Verification:** The user enters the received OTP, and the script verifies it against the generated OTP.
 
 - **Security Note:** For security reasons, the sender's Gmail ID and App Password have been removed. Users are encouraged to generate their App Passwords from Google settings for testing purposes.
 
-### Quick Start:
+## Quick Start:
 - Ensure you have Python installed on your system.
 
 - Run the script and follow the prompts to enter your email and verify the OTP.
@@ -25,7 +25,7 @@ The OTP (One-Time Password) Verification System is a crucial component in ensuri
 ``` bash
 python otp_verification_script.py
 ```
-### Important:
+## Important:
 This script is intended for educational purposes and serves as a basic example. In a real-world scenario, consider using secure email services and additional security measures.
 
 For production use, explore dedicated OTP libraries and services, such as those provided by authentication platforms.
