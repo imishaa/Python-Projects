@@ -8,7 +8,7 @@ Welcome to the Python-Projects repository! This collection features a variety of
 2. [Projects](#projects)
 3. [Getting Started](#getting-started)
 4. [Contributing](#contributing)
-5. [Need Help?](#Need Help?)
+5. [Need Help?](#Need-Help?)
 
 ## Introduction
 
