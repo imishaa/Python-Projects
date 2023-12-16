@@ -1,4 +1,4 @@
-# Python Projects <a href="https://emoji.gg/emoji/1887_python"><img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="40px" height="40px" alt="python"></a>
+# Python Projects <img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="40px" height="40px" alt="python">
 
 Welcome to the Python-Projects repository! This collection features a variety of beginner-friendly and fascinating projects created using Python. Whether you're a novice looking to enhance your coding skills or an experienced developer seeking inspiration, this repository has something for everyone.
 
