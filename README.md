@@ -21,6 +21,9 @@ Python-Projects is a curated selection of Python projects designed to help begin
 2. [**Text to Speech Generator**](https://github.com/imishaa/Python-Projects/tree/main/Text%20to%20Speech%20Generator)
     - This project converts the text content of web articles into spoken words.
     - It utilizes the newspaper3k, nltk, and gtts libraries to extract and process text from web articles and convert it into speech.
+3. [**Voice Recorder**](https://github.com/imishaa/Python-Projects/tree/main/Voice%20Recorder)
+    - This project records audio from the user's microphone and saves it as a WAV file.
+    - It utilizes the sounddevice library to record and save audio.
 
 Feel free to explore these projects and choose the ones that align with your skill level and interests.
 
