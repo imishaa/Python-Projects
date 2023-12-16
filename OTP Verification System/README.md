@@ -1,4 +1,4 @@
-## OTP Verification System
+## OTP Verification System <img src="https://cdn-icons-png.flaticon.com/512/4979/4979649.png" width="40px" height="50px" alt="python"></a>
 The OTP (One-Time Password) Verification System is a crucial component in ensuring secure and robust user authentication processes. This Python script serves as a basic example of OTP generation and verification using a simple email-based delivery mechanism. While this script provides a foundational understanding, it is important to note that for production-level systems, it is recommended to use dedicated libraries and services for enhanced security and reliability.
 
 ### Features of the Python OTP Verification Script:
