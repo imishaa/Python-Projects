@@ -16,8 +16,11 @@ Python-Projects is a curated selection of Python projects designed to help begin
 ## Projects
 
 1. [**OTP Verification System**](https://github.com/imishaa/Python-Projects/tree/main/OTP%20Verification%20System)
-- The sole purpose of an OTP is to verify the identity of a user by sending a unique password.
-- This project creates an application for the task of OTP verification
+   - The sole purpose of an OTP is to verify the identity of a user by sending a unique password.
+   - This project creates an application for the task of OTP verification
+2. [**Text to Speech Generator**](https://github.com/imishaa/Python-Projects/tree/main/Text%20to%20Speech%20Generator)
+    - This project converts the text content of web articles into spoken words.
+    - It utilizes the newspaper3k, nltk, and gtts libraries to extract and process text from web articles and convert it into speech.
 
 Feel free to explore these projects and choose the ones that align with your skill level and interests.
 
