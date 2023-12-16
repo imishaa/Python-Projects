@@ -15,7 +15,7 @@ Python-Projects is a curated selection of Python projects designed to help begin
 
 ## Projects
 
-1. **OTP Verification System**
+1. [**OTP Verification System**](https://github.com/imishaa/Python-Projects/tree/main/OTP%20Verification%20System)
 - The sole purpose of an OTP is to verify the identity of a user by sending a unique password.
 - This project creates an application for the task of OTP verification
 
