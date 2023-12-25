@@ -33,7 +33,7 @@ To get started with the projects in this repository, follow these steps:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/Python-Projects.git
+   git clone https://github.com/imishaa/Python-Projects.git
 2. Navigate to the project directory.
    ```bash
    cd Python-Projects
@@ -51,7 +51,7 @@ Thank you for considering contributing to the Python-Projects repository! Your i
 2. Clone the forked repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/Python-Projects.git
+    git clone https://github.com/imishaa/Python-Projects.git
     ```
 
 3. Create a new branch for your contribution.
